@@ -1,0 +1,14 @@
+{
+    "name": "cbu/cityguide",
+    "description": "city guide application",
+    "authors": [
+        {
+            "name": "Eswar Allu"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpfastcache/phpfastcache": "dev-master",
+        "guzzlehttp/guzzle": "7.5.x-dev"
+    }
+}
