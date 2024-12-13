@@ -58,6 +58,7 @@ else{
     <textarea name="post" class="login-input" placeholder="Write your post" rows="4" columns = "60" required /></textarea>
     <input type="text" class="login-input" name="phnum" placeholder="Mobile No" required />
     <input type="submit" name="submit" value="Post" class="form-button">
+    <p><a href="view_posts.php">View Posts</a></p>
     </form>
 <?php
     }
